@@ -1,0 +1,153 @@
+    1  mkdir 
+    2  clear
+    3  mkdir day2_terminal_power
+    4  cd day2_terminal_power
+    5  touch file1.txt
+    6  cp file1.txt copy_of_file1.txt
+    7  mv file1.txt renamed_file1.txt
+    8  ls
+    9  rm copy_of_file1.txt 
+   10  ls
+   11  mkdir backup
+   12  mv renamed_file1.txt backup/
+   13  ls
+   14  history
+   15  clear
+   16  history
+   17  ls
+   18  man ls
+   19  -t
+   20  ls -h
+   21  ls --help
+   22  claer
+   23  clear
+   24  mkdir ebad && cd ebad && touch ebad.txt && echo "ebad arshad"
+   25  cd ebad
+   26  ls
+   27  cat ebad.txt 
+   28  cd .
+   29  cd ../
+   30  rmdir ebad
+   31  ls
+   32  rmdir ebad
+   33  ls
+   34  cd ebad
+   35  rmdir ebad
+   36  cd ebad
+   37  cd ../
+   38  rm ebad
+   39  rmdir ebad
+   40  force rmdir ebad
+   41  cd ebad
+   42  rm ebad.txt 
+   43  cd ../
+   44  rmdir ebad
+   45  mkdir ebad && cd ebad && touch ebad.txt > echo "ebad arshad"
+   46  cat e
+   47  cat ebad
+   48  cat ebad.txt
+   49  ks
+   50  ls
+   51  explorer.exe .
+   52  rm ebad
+   53  rm ebad.txt
+   54  rm echo
+   55  rm ebad\ arshad 
+   56  ls
+   57  cd ../
+   58  rmdir eg
+   59  rmdir ebad/
+   60  mkdir ebad && cd ebad && touch ebad.txt && echo "ebad arshad" > ebad.txt
+   61  ls
+   62  cat ebad.txt 
+   63  cd .. ; echo "back to parent folder"
+   64  ls
+   65  ls --help
+   66  ls -a
+   67  clear
+   68  ls -a
+   69  ls
+   70  cd .
+   71  cd ..
+   72  cd day2_terminal_power/
+   73  cd ..
+   74  rmdir day2_terminal_power/
+   75  cd day2_terminal_power/
+   76  ls
+   77  rm backup/
+   78  rmdir backup/
+   79  cd ba
+   80  cd ..
+   81  rm -r day2_terminal_power/
+   82  ls
+   83  clear
+   84  mkdir practice
+   85  cd practice/
+   86  touch me.txt
+   87  echo  "Linux Day 1 - Completed navigation and file commands." > goals\.txt
+   88  rm goals.txt 
+   89  ls
+   90  cat me
+   91  cat me.txt 
+   92  rm me.txt 
+   93  echo  "Linux Day 1 - Completed navigation and file commands." > goals.txt
+   94  cat goals.txt 
+   95  echo "I, Ebad, have begun my DevOps journey with discipline." >> goals.txt
+   96  cat goals.txt 
+   97  rm goals.txt 
+   98  clear
+   99  touch me.txt
+  100  echo "Day 2 done, Ebad is leveling up." > me.txt
+  101  cp me.txt copied.txt
+  102  mv copied.txt renamed.txt
+  103  rm me.txt 
+  104  history 
+  105  history > history.txt
+  106  cat history.txt 
+  107  clear
+  108  ls
+  109  .git init
+  110  git init
+  111  git add .
+  112  git commit "day 2 complete"
+  113  git commit -m "day 2 complete"
+  114  git remote origin main https://github.com/ebad-arshad/devops
+  115  git remote add origin main https://github.com/ebad-arshad/devops
+  116  git remote add origin https://github.com/ebad-arshad/devops
+  117  git remote origin main
+  118  git push origin main
+  119  git pull
+  120  git status
+  121  git push
+  122  git push -u origin main
+  123  git push --set-upstream origin main
+  124  git push --set-upstream origin master
+  125  git branch -d master
+  126  git remote remove origin
+  127  git branch -d master
+  128  ../
+  129  cd ..
+  130  rmdir -r practice/
+  131  -r rmdir practice/
+  132  rmdir practice/
+  133  rmdir -r practice/
+  134  rm -r practice/
+  135  explorer.exe .
+  136  ls
+  137  rm -r practice
+  138  y
+  139  k
+  140  sls
+  141  ls
+  142  clear
+  143  rm -r practice/
+  144  ls
+  145  clear
+  146  mkdir practice
+  147  cd practice
+  148  touch me.txt
+  149  echo "Day 2 done, Ebad is leveling up." > me.txt
+  150  cp me.txt copied.txt
+  151  mv copied.txt renamed.txt
+  152  rm me.txt
+  153  history > history_log.txt
